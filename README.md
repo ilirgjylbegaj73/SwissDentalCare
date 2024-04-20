@@ -22,7 +22,6 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 
 - Role-based access ensuring secure and efficient handling of clinic data.
 - Comprehensive management of patient records and appointments.
-- Integration of billing and transaction management.
 
 ## Usage
 
