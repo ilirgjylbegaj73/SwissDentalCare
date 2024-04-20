@@ -10,7 +10,10 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 
 - `/MeetingReports`: Includes all weekly meeting reports documenting the development process.
 - `/SourceCode`: Hosts the source code and relevant technical documentation.
-- `/Wiki`: Contains the link to the detailed project Wiki with step-by-step guidance on the system's construction.
+- `/CSS`: Contains all Cascading Style Sheets (CSS) files used for styling the frontend of the application.
+- `/Java`: Houses all Java backend files, which handle the business logic, database operations, and server-side functionalities.
+- `/HTML`: Includes all Hypertext Markup Language (HTML) files used to structure the web interface of the application.
+
 
 ## System Roles
 
