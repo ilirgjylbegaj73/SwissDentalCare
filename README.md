@@ -9,7 +9,7 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 ## Repository Structure
 
 - `/MeetingReports`: Includes all weekly meeting reports documenting the development process.
-- `/SourceCode`: Hosts the source code and relevant technical documentation.
+- `/ProjectRequirements`: Documentation of the project requirement as stated in the classrom of CEN 302
 - `/CSS`: Contains all Cascading Style Sheets (CSS) files used for styling the frontend of the application.
 - `/Java`: Houses all Java backend files, which handle the business logic, database operations, and server-side functionalities.
 - `/HTML`: Includes all Hypertext Markup Language (HTML) files used to structure the web interface of the application.
@@ -26,12 +26,6 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 - Role-based access ensuring secure and efficient handling of clinic data.
 - Comprehensive management of patient records and appointments.
 
-## Usage
-
-To use or review the project files:
-1. Clone the repository using `git clone <repo_url>`.
-2. Access various sections such as meeting reports or source code through the respective directories.
-
 ## Contributing
 
 This project is part of an academic course and is primarily managed by the assigned student team. Contributions are currently limited to team members under the supervision of course instructors.
@@ -43,10 +37,6 @@ This project is shared under the MIT License.
 ## Contact
 
 For more information, please contact the project team via email at [igjylbegaj21@epoka.edu.al].
-
-## Detailed Information
-
-For a thorough guide on how the system is constructed, please visit the project's link: [https://dr-blerina-mustaqe-kokoneshi.com/]
 
 ---
 
