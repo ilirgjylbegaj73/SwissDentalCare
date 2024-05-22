@@ -18,21 +18,21 @@ Members Absent:  -
 
 Topics Discussed:
 
-•	Review of activity diagrams.
-•	Review of state diagrams.
-•	Planning for sequence diagrams and communication diagrams.
+•	Development of sequence and communication diagrams.
+•	Review and refinement of state diagrams.
+•	Creation of entity-relationship diagrams (ERD).
 
 Decisions Made:
 
-●	Approved activity diagrams and state diagrams.
-●	Decided to split the work for sequence diagrams and communication diagrams.
+●	Create sequence diagrams for key processes.
+●	Decided to split the work for sequence diagrams, communication diagrams and ERD.
 
 Tasks Assigned:
 
 •	Ilir Gjylbegaj: Create sequence diagrams for key processes.
 •	Aron Subashi: Create communication diagrams for key interactions.
-•	Bled Ibrahimi: Review and refine state diagrams.
-•	Amira Shehi: Ensure all diagrams are compliant with regulatory standards.
+•	Bled Ibrahimi: Review and refine state diagrams and security requirements.
+•	Amira Shehi: Create entity-relationship diagrams (ERD)
 
 Time, Place, and Agenda for Next Meeting:
 
