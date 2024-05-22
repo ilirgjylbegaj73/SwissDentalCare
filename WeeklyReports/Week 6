@@ -18,21 +18,21 @@ Members Absent:  -
 
 Topics Discussed:
 
-•	Review of sequence diagrams.
+•	Creation of class and component diagrams.
 •	Review of communication diagrams.
-•	Planning for class diagrams and component diagrams.
+•	Development of flow diagrams.
 
 Decisions Made:
 
-●	Approved sequence diagrams and communication diagrams.
-●	Decided to split the work for class diagrams and component diagrams.
+●	Create class diagrams for main components.
+●	Develop flow diagrams and ensure all diagrams are compliant with regulatory standards.
 
 Tasks Assigned:
 
 •	Ilir Gjylbegaj: Create class diagrams for main components.
 •	Aron Subashi: Create component diagrams for system architecture.
-•	Bled Ibrahimi: Review and refine communication diagrams.
-•	Amira Shehi: Finalize all diagrams with regulatory standards.
+•	Bled Ibrahimi: Review and refine communication diagrams and dependability requirements.
+•	Amira Shehi: Create flow diagrams and ensure all diagrams are compliant with regulatory standards.
 
 Time, Place, and Agenda for Next Meeting:
 
