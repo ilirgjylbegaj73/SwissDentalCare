@@ -18,24 +18,23 @@ Members Absent:  -
 
 Topics Discussed:
 
-●	Review of the executive summary and project scope draft.
-●	Review of the functional and non-functional requirements drafts.
-●	Planning for the development of user scenarios and use cases.
-
+●	Development of user scenarios and use cases.
+●	Review of initial assumptions and constraints.
+●	Creation of initial use case diagrams.
 
 Decisions Made:
 
-●	Approved the executive summary and project scope.
-●	Provided feedback on the functional and non-functional requirements drafts.
-●	Decided to split the work for user scenarios and use cases.
+●	Finalize user scenarios and assumptions.
+●	Develop use cases and constraints.
+●	Create use case diagrams and dependencies.
 
 
 Tasks Assigned:
 
-•	Ilir Gjylbegaj: Develop user scenarios.
-•	Aron Subashi: Develop use cases.
-•	Bled Ibrahimi: Create use case diagrams.
-•	Amira Shehi: Refine all drafts.
+•	Ilir Gjylbegaj: Develop user scenarios and assumptions.
+•	Aron Subashi: Develop use cases and constraints.
+•	Bled Ibrahimi: Create use case diagrams and dependencies.
+•	Amira Shehi: Develop data protection requirements and review all drafts.
 
 
 Time, Place, and Agenda for Next Meeting:
