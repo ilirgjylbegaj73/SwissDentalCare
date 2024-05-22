@@ -18,21 +18,21 @@ Members Absent:  -
 
 Topics Discussed:
 
-•	Review of class diagrams.
-•	Review of component diagrams.
-•	Planning for deployment diagrams and package diagrams.
+•	Creation of deployment and package diagrams.
+•	Review and refinement of class diagrams.
+•	Development of external requirements.
 
 Decisions Made:
 
 ●	Approved class diagrams and component diagrams.
-●	Decided to split the work for deployment diagrams and package diagrams. 
+●	Create deployment diagrams for system architecture and package diagrams for code organization.
 
 Tasks Assigned:
 
 •	Ilir Gjylbegaj: Create deployment diagrams for system architecture.
 •	Aron Subashi: Create package diagrams for code organization.
-•	Bled Ibrahimi: Review and refine class diagrams.
-•	Amira Shehi: Compute different variations of class diagrams 
+•	Bled Ibrahimi: Review and refine class diagrams and external requirements.
+•	Amira Shehi: Create sequence diagrams for specific scenarios and ensure compliance with regulatory standards.
 
 
 Time, Place, and Agenda for Next Meeting:
