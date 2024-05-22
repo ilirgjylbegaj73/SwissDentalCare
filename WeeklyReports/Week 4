@@ -18,22 +18,22 @@ Members Absent:  -
 
 Topics Discussed:
 
-•	Review of user scenarios.
+•	Creation of activity and state diagrams.
 •	Review of use cases and use case diagrams.
-•	Planning for activity diagrams and state diagrams.
+•	Development of data flow diagrams (DFD).
 
 Decisions Made:
 
-•	Approved user scenarios and use cases.
-•	Provided feedback on use case diagrams.
-•	Decided to split the work for activity diagrams and state diagrams.
+•	Create activity diagrams for main processes.
+• Create state diagrams for key system states.
+•	Develop data flow diagrams (DFD) and dependencies.
 
 Tasks Assigned:
 
 •	Ilir Gjylbegaj: Create activity diagrams for main processes.
 •	Aron Subashi: Create state diagrams for key system states.
-•	Bled Ibrahimi: Review and refine use case diagrams.
-•	Amira Shehi: Ensure compliance with data protection regulations.
+•	Bled Ibrahimi: Review and refine use case diagrams and organizational requirements.
+•	Amira Shehi: Create data flow diagrams (DFD) and dependencies.
 
 Time, Place, and Agenda for Next Meeting:
 
