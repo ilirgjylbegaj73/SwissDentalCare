@@ -18,13 +18,13 @@ Members Absent:  -
 
 Topics Discussed:
 
-•	Review of deployment diagrams.
-•	Review of package diagrams.
-•	Planning for activity and state diagrams for specific scenarios.
+•	Creation of additional activity and state diagrams for specific scenarios.
+•	Review and refinement of package diagrams.
+•	Development of domain requirements.
 
 Decisions Made:
 
-●	Approved deployment diagrams and package diagrams.
+●	Create activity diagrams for specific scenarios.
 ●	Decided to create additional activity and state diagrams for specific scenarios.
 
 Tasks Assigned:
