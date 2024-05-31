@@ -5,7 +5,7 @@ import { g as up, a as cp, s as qs, b as dp, i as nf, c as Pn } from "./addDocum
 /*!
   * vue-router v4.2.2
   * (c) 2023 Eduardo San Martin Morote
-  * @license MIT
+  * @license MIT 
   */var Gs;
 (function (e) { e.pop = "pop", e.push = "push" })(Gs || (Gs = {}));
 var Ws;
