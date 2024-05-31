@@ -1,7 +1,7 @@
 import { s as m, d as h, e as g } from "./scrollToSection.c1ae0af5.js";
 import { _ as b, d, b as v, e as A, v as w, U as i, V as S } from "./_plugin-vue_export-helper.78412409.js";
 import { ab as _ } from "./index.4f832826.js";
-const y = /\s|&nbsp;
+const y = /\s|&nbsp; 
     / g, R = e => { try { return e.replaceAll(y, "").toLowerCase() } catch { return e } }, f = (e, t) => { e.dataset.qa = R(t.value) }, $ = "qa", E = { beforeMount: (e, t) => f(e, t), updated: (e, t) => f(e, t) }, B = d({ props: { to: { type: Object, default: () => ({}) } } }), L = ["href"];
 function k(e, t, n, r, s, a) { return v(), A("a", { href: e.to.path }, [w(e.$slots, "default")], 8, L) } const M = b(B, [["render", k]]), O = () => {
     const e = navigator.userAgent;
