@@ -4,7 +4,7 @@ import { _ as f, d as w, b as h, e as _ } from "./_plugin-vue_export-helper.7841
 const x = ({ domain: e, pageNoindex: t }) => {
     const n = window.origin.includes("https://latest-user-app.zyro.com"), o = l.some(a => window.origin.includes(a)), i = c.some(a => window.origin.includes(a)), r = !!t || (o || i) && !d;
     return { shouldRedirectToCanonical: e && e.toLowerCase() !== window.location.hostname.toLowerCase() && !o && !i && !d && !m() && !n, noindex: r }
-}, C = w({
+}, C = w({ 
     props: { pageNoindex: { type: Boolean, default: !1 }, domain: { type: String, default: "" }, canonicalUrl: { type: String, default: "" }, siteMeta: { type: Object, default: null } }, setup(e) {
         const { shouldRedirectToCanonical: t, noindex: n } = x({ domain: e.domain, pageNoindex: e.pageNoindex });
         if (e.siteMeta) {
