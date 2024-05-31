@@ -8,7 +8,6 @@ const p = e => e.startsWith("www."), $ = e => p(e) ? e.substring(4) : e, k = e =
 
 		for (;o.charAt(0) === " ";)
 			o = o.substring(1);
-
 		if (o.indexOf(t) === 0) return o.substring(t.length, o.length)
 	} return ""
 }, I = (e, t, n, { cdomain: r = null } = {}) => {
