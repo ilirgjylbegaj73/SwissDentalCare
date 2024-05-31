@@ -31,8 +31,7 @@ function en(e) {
         if (re(e)) return e;
         if (te(e)) return e
     }
-} const qr = /;
-    (?![^ (] *\))/g,Jr=/: ([^] +) /, Yr = /\/\*[^]*?\*\//g;
+} const qr = /;  (?![^ (] *\))/g,Jr=/: ([^] +) /, Yr = /\/\*[^]*?\*\//g;
 function Sr(e) {
     const t = {};
     return e.replace(Yr, "").split(qr).forEach(n => {
