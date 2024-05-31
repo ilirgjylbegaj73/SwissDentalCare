@@ -11,7 +11,7 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 - `/MeetingReports`: Includes all weekly meeting reports documenting the development process.
 - `/ProjectRequirements`: Documentation of the project requirement as stated in the classrom of CEN 302
 - `/CSS`: Contains all Cascading Style Sheets (CSS) files used for styling the frontend of the application.
-- `/Java`: Houses all Java backend files, which handle the business logic, database operations, and server-side functionalities.
+- `/JS`: Houses all JS files.
 - `/HTML`: Includes all Hypertext Markup Language (HTML) files used to structure the web interface of the application.
 
 
@@ -28,11 +28,11 @@ The Swiss Dental Care Management System provides a robust solution for managing 
 
 ## Contributing
 
-This project is part of an academic course and is primarily managed by the assigned student team. Contributions are currently limited to team members under the supervision of course instructors.
+This project is part of an academic course and is managed by the assigned student team. Contributions are currently limited to team members under the supervision of course instructors.
 
-## License
+## Domain
 
-This project is shared under the MIT License.
+This project is live: https://dr-blerina-mustaqe-kokoneshi.com/
 
 ## Contact
 
