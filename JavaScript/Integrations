@@ -2,7 +2,7 @@ import { _ as l, d, b as a, e as _, f as n, p as C, g as p, n as b, c as i } fro
 const f = d({
     __name: "FacebookMessenger", props: { facebookMessengerId: { type: [Number, String], default: "" } }, setup(o, { expose: s }) {
         s();
-        const e = {};
+        const e = {}; 
         return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e
     }
 }), g = n("div", { id: "fb-root" }, null, -1), h = ["page_id"];
